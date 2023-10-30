@@ -4,12 +4,12 @@ This is a Book Management app built with React on the front-end, and Node.js and
 
 # Technologies Used
 
-React
-Redux
-Node.js
-Express
-Axios
-Babel
+. React
+. Redux
+. Node.js
+. Express
+. Axios
+. Babel
 
 # Getting Started
 To run the app, you'll need to create one .env file one in the app folder other in the server folder:
